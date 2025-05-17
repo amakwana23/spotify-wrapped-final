@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Spotify Wrapped</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet...</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string-array name="notification_options">
+        <item>High Priority</item>
+        <item>Low Priority</item>
+        <item>Silent</item>
+    </string-array>
+    <string name="redirectSchemeName">spotifywrapped</string>
+    <string name="redirectHostName">auth</string>
+    <string name="redirect_uri">spotifywrapped://auth</string>
+
+    <string name="login">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+
+    <string name="don_t_have_an_account_click_to_sign_up">Don\'t have an account? <font color='#1DB954'>Sign up</font></string>
+    <string name="already_have_an_account">Already have an account? <font color='#1DB954'>Sign In</font></string>
+    <string name="have_an_account_click_to_sign_in">Have an account? Click to Sign in!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcomeToMain">Manage Your Wrapped:</string>
+    <string name="client_id">1042135853480-0fnffi6bkir0l8ojbjas4mhq8hvokl2u.apps.googleusercontent.com</string>
+    <string name="queryTextGemini">Given the below lists of the user\'s top artists and top songs, provide a roughly 2-3 sentence analysis about the user\'s music taste.
+    Mention some of the user\'s favorite artists, but then ALSO suggest similar artists that were not mentioned on this list, and maybe some songs that matched the vibe of the top songs the user had.  Write a response as if you were casually
+    talking to the user. Do not use the words "I" or "me" in your response. If there are multiple of the same item, only mention them once.\n</string>
+    <string name="or">OR</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="settings">Settings</string>
+    <string name="disable_dark_mode">Disable Dark Mode</string>
+    <string name="spotify_wrapped">Spotify Wrapped</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="spotify_user_text">Not logged in to API</string>
+
+</resources>
